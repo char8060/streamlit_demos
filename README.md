@@ -20,4 +20,5 @@ cd apps/semantic_search/
 streamlit run search_app.py
 ```
 
-![search](img/semantic_search_app_Streamlit.png)
+![search1](img/semantic_search_app_Streamlit_1.png)
+![search2](img/semantic_search_app_Streamlit2.png)
