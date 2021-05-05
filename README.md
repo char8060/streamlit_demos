@@ -1,7 +1,8 @@
 # streamlit_demos
-Demos for streamlit viz. Needs churn_model to run.
+Demos for streamlit.
 
 ## Churn Viz
+Needs churn_model to run.
 To run the churn viz:
 
 ```
